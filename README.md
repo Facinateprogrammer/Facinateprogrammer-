@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Programming**
 
-- 👨‍💻 All of my projects are available at [http://GitHub.com/Facinatedprogrammer](http://GitHub.com/Facinatedprogrammer)
+- 👨‍💻 All of my projects are available at [http://GitHub.com/Facinateprogrammer](http://GitHub.com/Facinatedprogrammer)
 
 - 📝 I regularly write articles on [Python](Python)
 
