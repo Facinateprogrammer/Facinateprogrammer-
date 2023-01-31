@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soundarya A Balajiga</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![image](https://user-images.githubusercontent.com/124028704/215697869-2b8ffca5-822a-4d19-b5c4-7f4e397645cd.png)
+
+<img align="right"alt="coding"width="400"scr="![image](https://user-images.githubusercontent.com/124028704/215699830-63913b47-489a-4cd4-a80e-065ce852e453.png)
+ ">
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Python**
